@@ -1,0 +1,1 @@
+This is the input file, it will be outputed to the output file, it works if you find this in the output file.
